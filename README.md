@@ -13,4 +13,4 @@ https://www.kaggle.com/code/rudiwowot/visualisasi/input?select=covid_19_indonesi
 ![visualitation-4](https://github.com/akmalia3/COVID-19-ID-Visualizer/assets/101547800/5a280654-296f-4d48-9e7b-9ec7b0d47d14)
 
 ## Credits
-- Libraries: Plotly, Streamlit
+- Libraries: Plotly, Streamlit, Pandas
