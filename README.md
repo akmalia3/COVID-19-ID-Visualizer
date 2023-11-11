@@ -4,8 +4,7 @@
 This project offers interactive data visualizations of COVID-19 statistics in Indonesia. Our goal is to present the latest trends, cases, and insights related to COVID-19 using dynamic charts and graphs. We've developed this project using Streamlit to visualize data on websites, complemented by Pandas and Plotly Express.
 
 let's try my project here:
-
-![visualization_covid-19](https://covid-19-id-visualizer.streamlit.app/)
+https://covid-19-id-visualizer.streamlit.app/
 
 ## Data Source
 We collect COVID-19 data from Kaggle. You can access it using this link:
